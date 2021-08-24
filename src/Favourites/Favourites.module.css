@@ -1,0 +1,16 @@
+.Favourite {
+	padding-top: 5%;
+	/* float: left; */
+	/* width: 20%; */
+	background-image: linear-gradient(
+		to right,
+		rgba(0, 219, 208, 0.26),
+		rgba(0, 219, 208, 0)
+	);
+	/* background-color: rgba(0, 219, 208, 0.185); */
+	padding-bottom: 500em;
+	margin-bottom: 500em;
+
+	display: inline-grid;
+	grid-template-columns: 100%;
+}

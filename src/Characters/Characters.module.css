@@ -1,0 +1,30 @@
+.Characters {
+	padding-left: 10%;
+	/* padding-top: 5%; */
+}
+
+.wrapper {
+	/* position: relative; */
+	display: inline-grid;
+	grid-template-columns: 30% 30% 30%;
+}
+
+.element {
+	margin: 15px;
+}
+
+.popup {
+	padding-left: 10%;
+	align-items: center;
+	border: solid rgba(0, 255, 242, 0.842);
+	margin-top: 10%;
+	display: block;
+	position: absolute;
+	/* height: 30%; */
+	width: 30%;
+	background-color: rgba(0, 0, 0, 0.932);
+}
+
+.but {
+	float: right;
+}
